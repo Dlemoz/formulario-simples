@@ -1,6 +1,8 @@
 # formulario-simples
 Formulário simples criado com HTML e CSS
 
+# Referência 
+[Rafaella Ballerini](https://github.com/rafaballerini)
 
 ## Exemplo
 
